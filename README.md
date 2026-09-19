@@ -1,11 +1,12 @@
 <!-- Source: Best-README-Template BLANK_README (Unlicense) — https://github.com/othneildrew/Best-README-Template -->
 <a id="readme-top"></a>
 
-# BasicObject English EntryToAdvanced BV1Z4411C7jG
+# basicObject-english_entryToAdvanced-BV1Z4411C7jG
 
-Basic object english entry to advanced bv1 z4411 c7j g: no README or manifest to go on; based on its name, this looks like a personal project — open the repository to confirm.
+Personal Chinese-language notes that reorganize the slide deck from a Bilibili video course on English grammar, from parts of speech through advanced sentence patterns.
 
-[![CI](https://github.com/anyingiit/basicObject-english_entryToAdvanced-BV1Z4411C7jG/actions/workflows/ci.yml/badge.svg)](https://github.com/anyingiit/basicObject-english_entryToAdvanced-BV1Z4411C7jG/actions/workflows/ci.yml)
+**English** · [简体中文](README.zh-CN.md)
+
 [![License](https://img.shields.io/github/license/anyingiit/basicObject-english_entryToAdvanced-BV1Z4411C7jG)](LICENSE)
 
 [Report a bug](https://github.com/anyingiit/basicObject-english_entryToAdvanced-BV1Z4411C7jG/issues/new?template=bug_report.yml) · [Request a feature](https://github.com/anyingiit/basicObject-english_entryToAdvanced-BV1Z4411C7jG/issues/new?template=feature_request.yml)
@@ -24,7 +25,7 @@ Basic object english entry to advanced bv1 z4411 c7j g: no README or manifest to
 
 ## About The Project
 
-Basic object english entry to advanced bv1 z4411 c7j g: no README or manifest to go on; based on its name, this looks like a personal project — open the repository to confirm.
+This repository holds anyingiit's personal notes for an English grammar course watched on Bilibili (video id BV1Z4411C7jG), reorganized from the course's own slide deck into a single Markdown file at the repository root, shown under Usage below in a fenced block because its filename is written in Chinese. The notes follow the course's own framework end to end -- ten parts of speech, nine sentence elements, and eight sentence patterns -- from beginner through advanced, with an inline image linking to the matching slide from the original video for each topic. The course material is credited in the file's own header to its original author; this repository only reorganizes it.
 
 See the [open issues](https://github.com/anyingiit/basicObject-english_entryToAdvanced-BV1Z4411C7jG/issues) for planned features and known issues.
 
@@ -32,20 +33,28 @@ See the [open issues](https://github.com/anyingiit/basicObject-english_entryToAd
 
 ### Prerequisites
 
-- Git
+- A Markdown viewer, or GitHub's own rendering, to read the notes file -- no compiler, runtime, or package manager is required.
+- Internet access to load the slide screenshots the notes link to, since the images are hosted externally rather than committed to the repository.
 
 ### Installation
 
+There is nothing to install here -- this repository is notes, not a package. Get a local copy with:
+
 ```sh
 git clone https://github.com/anyingiit/basicObject-english_entryToAdvanced-BV1Z4411C7jG.git
-cd basicObject-english_entryToAdvanced-BV1Z4411C7jG
 ```
+
+Then open the notes file (see Usage below) in a Markdown viewer, or read it directly on GitHub.
 
 ## Usage
 
-```sh
-basicObject-english_entryToAdvanced-BV1Z4411C7jG --help
+Open the repository's notes file, shown here in a fenced block because its name is written in Chinese:
+
 ```
+英语语法-从入门到高级.md
+```
+
+Browse it heading by heading: it opens with the course's overall grammar framework, then works section by section through each part of speech, each sentence element, and each sentence pattern, from beginner through advanced.
 
 ## Contributing
 
